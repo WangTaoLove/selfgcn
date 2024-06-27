@@ -1,2 +1,1 @@
-# selfgcn
-基于自适应图卷积网络的专利多标签分类模型
+PatentACL: Multi-label Patent Classification using Adaptive IPC Codes Learning
